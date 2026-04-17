@@ -1,6 +1,6 @@
 # Privileged Identity Management (PIM)
 
-In a **Zero Trust architecture**, verification is not a one-time event—it is **continuous and contextual**.
+In a **Zero Trust architecture**, verification is not a one-time event; it is **continuous and contextual**.
 
 Access decisions must be enforced at every step:
 
@@ -25,7 +25,7 @@ Privileged accounts have **direct impact on critical systems**, making them prim
 - DevOps engineers deploying changes to **production pipelines**
 - Security admins accessing **audit logs and incident data**
 
-> If compromised, these accounts don’t just access data—they can **alter, destroy, or exfiltrate it**.
+> If compromised, these accounts don’t just access data, they can **alter, destroy, or exfiltrate it**.
 
 ---
 
@@ -54,4 +54,4 @@ Instead of permanent privileges, PIM enforces:
 ### With PIM
 - Privileges are **temporary, monitored, and controlled**
 
-> You’re not removing risk—you’re **shrinking the attack window dramatically**.
+> You’re not removing risk, you’re **shrinking the attack window dramatically**.
