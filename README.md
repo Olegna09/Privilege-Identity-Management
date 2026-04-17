@@ -1,6 +1,6 @@
 # Privileged Identity Management (PIM)
 
-![Image](Image/Thumbnail#1.png)
+![Overview](Image/Thumbnail#1.png)
 
 In a **Zero Trust architecture**, verification is not a one-time event; it is **continuous and contextual**.
 
